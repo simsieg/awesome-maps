@@ -96,7 +96,7 @@
 
 ## 3D Earth
 
-- [Google Earth](https://earth.google.com/web/) - 3D view of the earh in space
+- [Google Earth](https://earth.google.com/web/) - 3D view of the earth in space
 - [Dark Sky Map](https://maps.darksky.net/?3d) - 3D earth with different data layers
 
 ## Extraterrestrial
