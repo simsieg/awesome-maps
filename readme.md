@@ -80,6 +80,7 @@
 - [Windfinder](https://www.windfinder.com/) - wind forecasts, wind radar, wind force and weather
 - [Windy](https://www.windy.com/) - wind map, weather forecast and more than 40 other layers
 - [Real Time Lightning Map](https://www.lightningmaps.org/) - lightning strikes in real time across the planet
+- [OpenWeatherMap](https://openweathermap.org/weathermap) - interactive weather maps
 
 ## Catastrophes
 
