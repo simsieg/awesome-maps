@@ -11,6 +11,7 @@
 - [Awesome Maps](#awesome-maps)
   - [Contents](#contents)
   - [General Purpose](#general-purpose)
+  - [Public Transport](#public-transport)
   - [Street View](#street-view)
   - [Topography](#topography)
   - [Cycle](#cycle)
@@ -37,6 +38,10 @@
 
 - [HERE WeGo](https://wego.here.com/) - maps, navigation and routes
 - [OpenStreetMap](https://www.openstreetmap.org/) - the free wiki world map
+
+## Public Transport
+
+- [Mapnificent](https://www.mapnificent.net/) - dynamic public transport travel time maps
 
 ## Street View
 
