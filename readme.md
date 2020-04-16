@@ -20,6 +20,7 @@
   - [Airspace](#airspace)
   - [Satellites](#satellites)
   - [Sights](#sights)
+  - [Accommodation](#accommodation)
   - [Weather](#weather)
   - [Catastrophes](#catastrophes)
   - [Historic](#historic)
@@ -80,6 +81,10 @@
 
 - [OpenTripMap](https://opentripmap.com/) - map service for sightseeing and travel planning
 
+## Accommodation
+
+- [Open Camping Map](https://opencampingmap.org) - world map of camping sites
+
 ## Weather
 
 - [Windfinder](https://www.windfinder.com/) - wind forecasts, wind radar, wind force and weather
@@ -98,7 +103,6 @@
 
 - [Old Maps Online](https://www.oldmapsonline.org) - historical maps around the world
 - [Mapire](https://mapire.eu/) - portal for historical maps
-
 
 ## 3D Earth
 
