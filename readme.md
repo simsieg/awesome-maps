@@ -4,7 +4,7 @@
 
 > A curated list of awesome online maps
 
-![Map Collage](./cover.png)
+![Map Collage](./cover.jpg)
 
 ## Contents
 
