@@ -37,104 +37,104 @@
 
 ## General Purpose
 
-- [HERE WeGo](https://wego.here.com/) - maps, navigation and routes
-- [OpenStreetMap](https://www.openstreetmap.org/) - the free wiki world map
+- [HERE WeGo](https://wego.here.com/) - Maps, navigation and routes.
+- [OpenStreetMap](https://www.openstreetmap.org/) - The free wiki world map.
 
 ## Public Transport
 
-- [Mapnificent](https://www.mapnificent.net/) - dynamic public transport travel time maps
+- [Mapnificent](https://www.mapnificent.net/) - Dynamic public transport travel time maps.
 
 ## Street View
 
-- [Mapillary](https://www.mapillary.com/app/) - street-level imagery, powered by collaboration and computer vision
-- [Street View](https://www.google.com/maps/) - 360 degree views of various places
+- [Mapillary](https://www.mapillary.com/app/) - Street-level imagery, powered by collaboration and computer vision.
+- [Street View](https://www.google.com/maps/) - 360 degree views of various places.
 
 ## Topography
 
-- [OpenTopoMap](https://opentopomap.org/) - free topographic maps
+- [OpenTopoMap](https://opentopomap.org/) - Free topographic maps.
 
 ## Cycle
 
-- [OpenCycleMap](https://www.opencyclemap.org/) - global cycling map for overview and planning
+- [OpenCycleMap](https://www.opencyclemap.org/) - Global cycling map for overview and planning.
 
 ## Sea
 
-- [OpenSeaMap](https://map.openseamap.org/) - free nautical chart
+- [OpenSeaMap](https://map.openseamap.org/) - Free nautical chart.
 
 ## Train
 
-- [OpenRailwayMap](https://www.openrailwaymap.org/) - free map of the world's railway infrastructure
-- [Zugverfolgung.com](https://www.zugverfolgung.com/) - live train tracking for Germany, Austria, Switzerland, Netherlands, and Belgium
-- [Rail Radar](http://raildar.co.uk/radar.html) - real time movements of trains in the UK
-- [Track Your Train Map](https://www.amtrak.com/track-your-train.html) - live train tracking in the US
+- [OpenRailwayMap](https://www.openrailwaymap.org/) - Free map of the world's railway infrastructure.
+- [Zugverfolgung.com](https://www.zugverfolgung.com/) - Live train tracking for Germany, Austria, Switzerland Netherlands, and Belgium.
+- [Rail Radar](http://raildar.co.uk/radar.html) - Real time movements of trains in the UK.
+- [Track Your Train Map](https://www.amtrak.com/track-your-train.html) - Live train tracking in the US.
 
 ## Airspace
 
-- [Flightradar24](https://www.flightradar24.com/) - real time flight tracker map
+- [Flightradar24](https://www.flightradar24.com/) - Real time flight tracker map.
 
 ## Satellites
 
-- [ISSTracker](http://www.isstracker.com/) - real-time location tracking of the international space station
-- [Satellite Map](https://maps.esri.com/rc/sat2/index.html) - current position and trajectory of 16,000 manmade objects orbiting the earth
+- [ISSTracker](http://www.isstracker.com/) - Real-time location tracking of the international space station.
+- [Satellite Map](https://maps.esri.com/rc/sat2/index.html) - Current position and trajectory of 16,000 manmade objects orbiting the earth.
 
 ## Sights
 
-- [OpenTripMap](https://opentripmap.com/) - map service for sightseeing and travel planning
+- [OpenTripMap](https://opentripmap.com/) - Map service for sightseeing and travel planning.
 
 ## Accommodation
 
-- [Open Camping Map](https://opencampingmap.org) - world map of camping sites
+- [Open Camping Map](https://opencampingmap.org) - World map of camping sites.
 
 ## Weather
 
-- [Windfinder](https://www.windfinder.com/) - wind forecasts, wind radar, wind force and weather
-- [Windy](https://www.windy.com/) - wind map, weather forecast and more than 40 other layers
-- [Real Time Lightning Map](https://www.lightningmaps.org/) - lightning strikes in real time across the planet
-- [OpenWeatherMap](https://openweathermap.org/weathermap) - interactive weather maps
+- [Windfinder](https://www.windfinder.com/) - Wind forecasts, wind radar, wind force and weather.
+- [Windy](https://www.windy.com/) - Wind map, weather forecast and more than 40 other layers.
+- [Real Time Lightning Map](https://www.lightningmaps.org/) - Lightning strikes in real time across the planet.
+- [OpenWeatherMap](https://openweathermap.org/weathermap) - Interactive weather maps.
 
 ## Catastrophes
 
-- [Earthquake Track](https://earthquaketrack.com/) - map of earthquakes
-- [Forest Watch](https://fires.globalforestwatch.org/map) - monitoring of forest and land fires
-- [Live Cyber Threat Map](https://threatmap.checkpoint.com/) - live map of cyber attacks
-- [NUKEMAP](https://nuclearsecrecy.com/nukemap/) - simulate explosions of nuclear weapons
+- [Earthquake Track](https://earthquaketrack.com/) - Map of earthquakes.
+- [Forest Watch](https://fires.globalforestwatch.org/map) - Monitoring of forest and land fires.
+- [Live Cyber Threat Map](https://threatmap.checkpoint.com/) - Live map of cyber attacks.
+- [NUKEMAP](https://nuclearsecrecy.com/nukemap/) - Simulate explosions of nuclear weapons.
 
 ## Historic
 
-- [Old Maps Online](https://www.oldmapsonline.org) - historical maps around the world
-- [Mapire](https://mapire.eu/) - portal for historical maps
+- [Old Maps Online](https://www.oldmapsonline.org) - Historical maps around the world.
+- [Mapire](https://mapire.eu/) - Portal for historical maps.
 
 ## 3D Earth
 
-- [Google Earth](https://earth.google.com/web/) - 3D view of the earth in space
-- [Dark Sky Map](https://maps.darksky.net/?3d) - 3D earth with different data layers
+- [Google Earth](https://earth.google.com/web/) - 3D view of the earth in space.
+- [Dark Sky Map](https://maps.darksky.net/?3d) - 3D earth with different data layers.
 
 ## Extraterrestrial
 
 ### Nightsky
 
-- [Stellarium Web](https://stellarium-web.org/) - virtual online planetarium
+- [Stellarium Web](https://stellarium-web.org/) - Virtual online planetarium.
 
 ### Moon
 
-- [Moon Trek](https://trek.nasa.gov/moon/) - NASA exploration portal for the moon
+- [Moon Trek](https://trek.nasa.gov/moon/) - NASA exploration portal for the moon.
 
 ### Mars
 
-- [Mars Trek](https://trek.nasa.gov/mars/) - NASA exploration portal for the mars
+- [Mars Trek](https://trek.nasa.gov/mars/) - NASA exploration portal for the mars.
 
 ### Solar System
 
-- [3D Solar System Simulator](https://theskylive.com/3dsolarsystem) - orbits of planets and more than 150 comets and asteroids
-- [Solar System Scope](https://www.solarsystemscope.com/) - solar system, night sky and outer space in real time
+- [3D Solar System Simulator](https://theskylive.com/3dsolarsystem) - Orbits of planets and more than 150 comets and asteroids.
+- [Solar System Scope](https://www.solarsystemscope.com/) - Solar system, night sky and outer space in real time.
 
 ### Milky Way
 
-- [100,000 Stars](https://stars.chromeexperiments.com/) - interactive visualization of the stellar neighborhood
+- [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive visualization of the stellar neighborhood.
 
 ### Universe
 
-- [The Universe in 3D](https://in-the-sky.org/ngc3d.php) - interactive 3D map of the universe
+- [The Universe in 3D](https://in-the-sky.org/ngc3d.php) - Interactive 3D map of the universe.
 
 ## Contribute
 
