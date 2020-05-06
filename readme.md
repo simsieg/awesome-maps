@@ -42,6 +42,7 @@
 
 ## Public Transport
 
+- [OpenPTMap](http://openptmap.org/) - Public transport lines.
 - [Mapnificent](https://www.mapnificent.net/) - Dynamic public transport travel time maps.
 
 ## Street View
