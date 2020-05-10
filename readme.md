@@ -22,6 +22,7 @@
   - [Satellites](#satellites)
   - [Sights](#sights)
   - [Accommodation](#accommodation)
+  - [Food](#food)
   - [Weather](#weather)
   - [Catastrophes](#catastrophes)
   - [Historic](#historic)
@@ -91,6 +92,10 @@
 ## Accommodation
 
 - [Open Camping Map](https://opencampingmap.org) - World map of camping sites.
+
+## Food
+
+- [mundraub](https://mundraub.org/map) - Edible plants and fruits worldwide.
 
 ## Weather
 
