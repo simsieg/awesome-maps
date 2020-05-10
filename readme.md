@@ -13,6 +13,7 @@
   - [General Purpose](#general-purpose)
   - [Public Transport](#public-transport)
   - [Street View](#street-view)
+  - [Mercator projection](#mercator-projection)
   - [Topography](#topography)
   - [Cycle](#cycle)
   - [Sea](#sea)
@@ -49,6 +50,10 @@
 
 - [Mapillary](https://www.mapillary.com/app/) - Street-level imagery, powered by collaboration and computer vision.
 - [Street View](https://www.google.com/maps/) - 360 degree views of various places.
+
+## Mercator projection
+
+- [The True Size Of](https://thetruesize.com/) - Compare the relative size of countries.
 
 ## Topography
 
