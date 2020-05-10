@@ -81,6 +81,7 @@
 ## Sights
 
 - [OpenTripMap](https://opentripmap.com/) - Map service for sightseeing and travel planning.
+- [Wikimapia](https://wikimapia.org/) - Editable map of marked places.
 
 ## Accommodation
 
