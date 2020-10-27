@@ -97,6 +97,7 @@
 ## Food
 
 - [mundraub](https://mundraub.org/map) - Edible plants and fruits worldwide.
+- [McBroken](https://mcbroken.com/) - Is the McDonald's Ice Cream machine broken?
 
 ## Weather
 
