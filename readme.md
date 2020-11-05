@@ -105,6 +105,7 @@
 - [Windy](https://www.windy.com/) - Wind map, weather forecast and more than 40 other layers.
 - [Real Time Lightning Map](https://www.lightningmaps.org/) - Lightning strikes in real time across the planet.
 - [OpenWeatherMap](https://openweathermap.org/weathermap) - Interactive weather maps.
+- [openSenseMap](https://opensensemap.org/) - Open environmental sensor data all over the world.
 
 ## Catastrophes
 
