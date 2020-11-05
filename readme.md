@@ -16,6 +16,7 @@
   - [Mercator projection](#mercator-projection)
   - [Topography](#topography)
   - [Cycle](#cycle)
+  - [Accessibility](#accessibility)
   - [Sea](#sea)
   - [Train](#train)
   - [Airspace](#airspace)
@@ -63,6 +64,10 @@
 ## Cycle
 
 - [OpenCycleMap](https://www.opencyclemap.org/) - Global cycling map for overview and planning.
+
+## Accessibility
+
+- [Wheelmap](https://wheelmap.org/) - Wwheelchair-accessible places.
 
 ## Sea
 
