@@ -15,7 +15,7 @@
   - [Street View](#street-view)
   - [Mercator projection](#mercator-projection)
   - [Topography](#topography)
-  - [Cycle](#cycle)
+  - [Outdoor](#outdoor)
   - [Accessibility](#accessibility)
   - [Sea](#sea)
   - [Train](#train)
@@ -61,9 +61,10 @@
 
 - [OpenTopoMap](https://opentopomap.org/) - Free topographic maps.
 
-## Cycle
+## Outdoor
 
 - [OpenCycleMap](https://www.opencyclemap.org/) - Global cycling map for overview and planning.
+- [Komoot](https://www.komoot.com/plan) - Route planner for hiking, cycling and running.
 
 ## Accessibility
 
