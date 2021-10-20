@@ -23,6 +23,7 @@
   - [Satellites](#satellites)
   - [Sights](#sights)
   - [Accommodation](#accommodation)
+  - [Media](#media)
   - [Food](#food)
   - [Weather](#weather)
   - [Catastrophes](#catastrophes)
@@ -101,6 +102,10 @@
 ## Accommodation
 
 - [Open Camping Map](https://opencampingmap.org) - World map of camping sites.
+
+## Media
+
+- [Radio Garde](https://radio.garden) - Listen to radio stations around the world.
 
 ## Food
 
