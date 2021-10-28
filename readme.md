@@ -68,6 +68,7 @@
 
 - [OpenCycleMap](https://www.opencyclemap.org/) - Global cycling map for overview and planning.
 - [Komoot](https://www.komoot.com/plan) - Route planner for hiking, cycling and running.
+- [Light pollution map](https://www.lightpollutionmap.info) - Interactive world light pollution map.
 
 ## Accessibility
 
@@ -105,7 +106,7 @@
 
 ## Media
 
-- [Radio Garde](https://radio.garden) - Listen to radio stations around the world.
+- [Radio Garden](https://radio.garden) - Listen to radio stations around the world.
 
 ## Food
 
