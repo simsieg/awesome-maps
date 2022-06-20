@@ -144,6 +144,7 @@
 
 - [Old Maps Online](https://www.oldmapsonline.org) - Historical maps around the world.
 - [Mapire](https://mapire.eu/) - Portal for historical maps.
+- [Painted planet](https://hicsuntleones.nl/paintedplanet/?country=Q30&scape=land) - paintings geolocated
 
 ## 3D Earth
 
