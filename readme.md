@@ -79,6 +79,8 @@
 ## Sea
 
 - [OpenSeaMap](https://map.openseamap.org/) - Free nautical chart.
+- [Marine traffic](https://www.marinetraffic.com) - ship location
+
 
 ## Train
 
@@ -90,11 +92,15 @@
 ## Airspace
 
 - [Flightradar24](https://www.flightradar24.com/) - Real time flight tracker map.
+- [adsbexchange](https://globe.adsbexchange.com/) - Real time flight tracker map.
+- [Sondehub](https://sondehub.org/) - high altitude balloon map
 
 ## Satellites
 
 - [ISSTracker](http://www.isstracker.com/) - Real-time location tracking of the international space station.
 - [Satellite Map](https://maps.esri.com/rc/sat2/index.html) - Current position and trajectory of 16,000 manmade objects orbiting the earth.
+- [Sentinel hub](https://apps.sentinel-hub.com/eo-browser) - LEO Satellite imagery
+- [Colorado state website](https://rammb-slider.cira.colostate.edu) - GEO satellite imagery
 
 ## Sights
 
@@ -108,7 +114,10 @@
 
 ## Media
 
+- [Snapchat](https://map.snapchat.com) - recent videos on a map
 - [Radio Garden](https://radio.garden) - Listen to radio stations around the world.
+- [flickr map](https://www.flickr.com/map) - photos and videos on amap
+- [wikishootme](https://wikishootme.toolforge.org/) - Wikipedia images on a map
 
 ## Food
 
@@ -135,6 +144,7 @@
 
 - [Old Maps Online](https://www.oldmapsonline.org) - Historical maps around the world.
 - [Mapire](https://mapire.eu/) - Portal for historical maps.
+- [Painted planet](https://hicsuntleones.nl/paintedplanet/?country=Q30&scape=land) - paintings geolocated
 
 ## 3D Earth
 
