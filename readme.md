@@ -79,7 +79,7 @@
 ## Sea
 
 - [OpenSeaMap](https://map.openseamap.org/) - Free nautical chart.
-- [Marine traffic](https://www.marinetraffic.com) - ship location
+- [Marine traffic](https://www.marinetraffic.com) - Real time ship locations.
 
 
 ## Train
@@ -92,15 +92,15 @@
 ## Airspace
 
 - [Flightradar24](https://www.flightradar24.com/) - Real time flight tracker map.
-- [adsbexchange](https://globe.adsbexchange.com/) - Real time flight tracker map.
-- [Sondehub](https://sondehub.org/) - high altitude balloon map
+- [ADS-B Exchange](https://globe.adsbexchange.com/) - Aircraft tracking.
+- [Sondehub](https://sondehub.org/) - Live tracking of radiosonde flights.
 
 ## Satellites
 
 - [ISSTracker](http://www.isstracker.com/) - Real-time location tracking of the international space station.
 - [Satellite Map](https://maps.esri.com/rc/sat2/index.html) - Current position and trajectory of 16,000 manmade objects orbiting the earth.
-- [Sentinel hub](https://apps.sentinel-hub.com/eo-browser) - LEO Satellite imagery
-- [Colorado state website](https://rammb-slider.cira.colostate.edu) - GEO satellite imagery
+- [Sentinel Hub](https://apps.sentinel-hub.com/eo-browser) - Full resolution images satellite imagery.
+- [RAMMB SLIDER](https://rammb-slider.cira.colostate.edu) - Interactive satellite imagery explorer.
 
 ## Sights
 
@@ -114,10 +114,10 @@
 
 ## Media
 
-- [Snapchat](https://map.snapchat.com) - recent videos on a map
+- [Snapchat](https://map.snapchat.com) - Recent videos on a map.
 - [Radio Garden](https://radio.garden) - Listen to radio stations around the world.
-- [flickr map](https://www.flickr.com/map) - photos and videos on amap
-- [wikishootme](https://wikishootme.toolforge.org/) - Wikipedia images on a map
+- [Flickr Map](https://www.flickr.com/map) - Photos and videos on a map.
+- [WikiShootMe](https://wikishootme.toolforge.org/) - Wikipedia images and articles on a map.
 
 ## Food
 
@@ -144,7 +144,7 @@
 
 - [Old Maps Online](https://www.oldmapsonline.org) - Historical maps around the world.
 - [Mapire](https://mapire.eu/) - Portal for historical maps.
-- [Painted planet](https://hicsuntleones.nl/paintedplanet/?country=Q30&scape=land) - paintings geolocated
+- [Painted Planet](https://hicsuntleones.nl/paintedplanet) - Geolocated paintings of citiscapes and landscapes.
 
 ## 3D Earth
 
