@@ -41,7 +41,7 @@
 
 ## General Purpose
 
-- [Mapcarta](https://mapcarta.com) . Explore open knowledge from OpenStreetMap, Wikipedia, and more.
+- [Mapcarta](https://mapcarta.com) - Explore open knowledge from OpenStreetMap, Wikipedia, and more.
 - [Mapy.cz](https://de.mapy.cz) - General purpose map with various possibilities.
 - [HERE WeGo](https://wego.here.com/) - Maps, navigation and routes.
 - [OpenStreetMap](https://www.openstreetmap.org/) - The free wiki world map.
@@ -74,7 +74,7 @@
 
 ## Accessibility
 
-- [Wheelmap](https://wheelmap.org/) - Wwheelchair-accessible places.
+- [Wheelmap](https://wheelmap.org/) - Wheelchair-accessible places.
 
 ## Sea
 
