@@ -104,6 +104,7 @@
 
 ## Sights
 
+- [World Heritage](https://whc.unesco.org/en/interactive-map/) - Map of UNESCO World Heritage sites. 
 - [OpenTripMap](https://opentripmap.com/) - Map service for sightseeing and travel planning.
 - [Wikimapia](https://wikimapia.org/) - Editable map of marked places.
 - [AlleBurgen](https://www.alleburgen.de/index-atlas.php) - Castles, palaces and fortified buildings in Europe.
