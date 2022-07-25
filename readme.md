@@ -126,6 +126,8 @@
 
 ## Food
 
+- [TasteAtlas](https://www.tasteatlas.com/search) - World food atlas.
+- [ViaMichelin](https://www.viamichelin.com/web/Search-Restaurants) - Selected restaurants from the MICHELIN Guide.
 - [mundraub](https://mundraub.org/map) - Edible plants and fruits worldwide.
 - [McBroken](https://mcbroken.com/) - Is the McDonald's Ice Cream machine broken?
 
