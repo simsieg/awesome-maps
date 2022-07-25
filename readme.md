@@ -69,8 +69,10 @@
 ## Outdoor
 
 - [OpenCycleMap](https://www.opencyclemap.org/) - Global cycling map for overview and planning.
+- [CyclOSM](https://www.cyclosm.org/) - Beautiful open cycle map.
 - [Komoot](https://www.komoot.com/plan) - Route planner for hiking, cycling and running.
 - [Light pollution map](https://www.lightpollutionmap.info) - Interactive world light pollution map.
+- [UrbexElite](https://www.google.com/maps/d/viewer?mid=1M6OeH-DCWCLHGLQ2_CiGPd0aO7IjPHqo&hl=de&ll=52.28141979857539%2C14.202343154077269&z=8) - Map of lost places.
 
 ## Accessibility
 
@@ -91,6 +93,8 @@
 
 ## Airspace
 
+- [FlightConnections](https://www.flightconnections.com/) - Overview of all flight routes worldwide.
+- [SkyVector](https://skyvector.com/) - Worldwide Aeronautical Charts.
 - [Flightradar24](https://www.flightradar24.com/) - Real time flight tracker map.
 - [ADS-B Exchange](https://globe.adsbexchange.com/) - Aircraft tracking.
 - [Sondehub](https://sondehub.org/) - Live tracking of radiosonde flights.
@@ -104,7 +108,7 @@
 
 ## Sights
 
-- [World Heritage](https://whc.unesco.org/en/interactive-map/) - Map of UNESCO World Heritage sites. 
+- [UNSECO World Heritage](https://whc.unesco.org/en/interactive-map/) - Map of UNESCO World Heritage sites.
 - [OpenTripMap](https://opentripmap.com/) - Map service for sightseeing and travel planning.
 - [Wikimapia](https://wikimapia.org/) - Editable map of marked places.
 - [AlleBurgen](https://www.alleburgen.de/index-atlas.php) - Castles, palaces and fortified buildings in Europe.
