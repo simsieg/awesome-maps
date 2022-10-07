@@ -26,6 +26,7 @@
   - [Media](#media)
   - [Food](#food)
   - [Weather](#weather)
+  - [Climate Change](#climate-change)
   - [Catastrophes](#catastrophes)
   - [Historic](#historic)
   - [3D Earth](#3d-earth)
@@ -139,6 +140,11 @@
 - [Real Time Lightning Map](https://www.lightningmaps.org/) - Lightning strikes in real time across the planet.
 - [OpenWeatherMap](https://openweathermap.org/weathermap) - Interactive weather maps.
 - [openSenseMap](https://opensensemap.org/) - Open environmental sensor data all over the world.
+
+## Climate Change
+
+- [Electricity Maps](https://app.electricitymaps.com/map) - 24/7 live visualization of electricity origins and CO2 emissions.
+- [Water level](https://coastal.climatecentral.org/map/8/100.6166/13.2746/?theme=water_level&map_type=water_level_above_mhhw) - Simulate rising sea levels.
 
 ## Catastrophes
 
