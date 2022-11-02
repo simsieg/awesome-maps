@@ -84,7 +84,6 @@
 - [OpenSeaMap](https://map.openseamap.org/) - Free nautical chart.
 - [Marine traffic](https://www.marinetraffic.com) - Real time ship locations.
 
-
 ## Train
 
 - [OpenRailwayMap](https://www.openrailwaymap.org/) - Free map of the world's railway infrastructure.
@@ -94,6 +93,7 @@
 
 ## Airspace
 
+- **[⭐️ Escape ✈️](https://greatescape.co/map) - Find the cheapest flight destinations.**
 - [FlightConnections](https://www.flightconnections.com/) - Overview of all flight routes worldwide.
 - [SkyVector](https://skyvector.com/) - Worldwide Aeronautical Charts.
 - [Flightradar24](https://www.flightradar24.com/) - Real time flight tracker map.
