@@ -43,7 +43,7 @@
 ## General Purpose
 
 - [Mapcarta](https://mapcarta.com) - Explore open knowledge from OpenStreetMap, Wikipedia, and more.
-- [Mapy.cz](https://de.mapy.cz) - General purpose map with various possibilities.
+- [Mapy.cz](https://en.mapy.cz) - General purpose map with various possibilities.
 - [HERE WeGo](https://wego.here.com/) - Maps, navigation and routes.
 - [OpenStreetMap](https://www.openstreetmap.org/) - The free wiki world map.
 
