@@ -25,6 +25,7 @@
   - [Accommodation](#accommodation)
   - [Media](#media)
   - [Food](#food)
+  - [Fun](#fun)
   - [Weather](#weather)
   - [Climate Change](#climate-change)
   - [Catastrophes](#catastrophes)
@@ -132,6 +133,10 @@
 - [ViaMichelin](https://www.viamichelin.com/web/Search-Restaurants) - Selected restaurants from the MICHELIN Guide.
 - [mundraub](https://mundraub.org/map) - Edible plants and fruits worldwide.
 - [McBroken](https://mcbroken.com/) - Is the McDonald's Ice Cream machine broken?
+
+## Fun
+
+- [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
 
 ## Weather
 
