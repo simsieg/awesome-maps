@@ -67,6 +67,7 @@
 
 - [OpenTopoMap](https://opentopomap.org/) - Free topographic maps.
 - [Every Mountain in the World](http://everymountainintheworld.com/) - Find mountains by elevation and prominence.
+- [HeyWhatsThat](https://www.heywhatsthat.com/) - Surface of the Earth visible from where you're standing.
 
 ## Outdoor
 
