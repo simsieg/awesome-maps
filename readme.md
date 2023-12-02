@@ -147,6 +147,7 @@
 - [Windfinder](https://www.windfinder.com/) - Wind forecasts, wind radar, wind force and weather.
 - [Windy](https://www.windy.com/) - Wind map, weather forecast and more than 40 other layers.
 - [Windguru](https://www.windguru.cz/map/) - Wind and weather model forecast maps.
+- [Real Time City Climate](https://www.meteoblue.com/en/products/cityclimate/index) - High precision, high-resolution climate map for world cities
 - [Real Time Lightning Map](https://www.lightningmaps.org/) - Lightning strikes in real time across the planet.
 - [OpenWeatherMap](https://openweathermap.org/weathermap) - Interactive weather maps.
 - [openSenseMap](https://opensensemap.org/) - Open environmental sensor data all over the world.
