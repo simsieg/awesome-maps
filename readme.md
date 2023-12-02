@@ -50,14 +50,14 @@
 
 ## Public Transport
 
-- [OpenRouteService](https://maps.openrouteservice.org/) - Poute planner for directions, isochrones and places.
+- [OpenRouteService](https://maps.openrouteservice.org/) - Route planner for directions, isochrones and places.
 - [OpenPTMap](http://openptmap.org/) - Public transport lines.
 - [Mapnificent](https://www.mapnificent.net/) - Dynamic public transport travel time maps.
 
 ## Street View
 
 - [Mapillary](https://www.mapillary.com/app/) - Street-level imagery, powered by collaboration and computer vision.
-- [Street View](https://www.google.com/maps/) - 360 degree views of various places.
+- [Street View](https://www.google.com/maps/) - 360° views of various places.
 
 ## Mercator projection
 
@@ -92,7 +92,7 @@
 ## Train
 
 - [OpenRailwayMap](https://www.openrailwaymap.org/) - Free map of the world's railway infrastructure.
-- [Zugverfolgung.com](https://www.zugverfolgung.com/) - Live train tracking for Germany, Austria, Switzerland Netherlands, and Belgium.
+- [Zugverfolgung.com](https://www.zugverfolgung.com/) - Live train tracking for Germany, Austria, Switzerland, Netherlands, and Belgium.
 - [Rail Radar](http://raildar.co.uk/radar.html) - Real time movements of trains in the UK.
 - [Track Your Train Map](https://www.amtrak.com/track-your-train.html) - Live train tracking in the US.
 
@@ -108,13 +108,13 @@
 ## Satellites
 
 - [ISSTracker](http://www.isstracker.com/) - Real-time location tracking of the international space station.
-- [Satellite Map](https://maps.esri.com/rc/sat2/index.html) - Current position and trajectory of 16,000 manmade objects orbiting the earth.
+- [Satellite Map](https://maps.esri.com/rc/sat2/index.html) - Current position and trajectory of 16,000 manmade objects orbiting the Earth.
 - [Sentinel Hub](https://apps.sentinel-hub.com/eo-browser) - Full resolution images satellite imagery.
 - [RAMMB SLIDER](https://rammb-slider.cira.colostate.edu) - Interactive satellite imagery explorer.
 
 ## Sights
 
-- [UNSECO World Heritage](https://whc.unesco.org/en/interactive-map/) - Map of UNESCO World Heritage sites.
+- [UNESCO World Heritage](https://whc.unesco.org/en/interactive-map/) - Map of UNESCO World Heritage sites.
 - [OpenTripMap](https://opentripmap.com/) - Map service for sightseeing and travel planning.
 - [Wikimapia](https://wikimapia.org/) - Editable map of marked places.
 - [AlleBurgen](https://www.alleburgen.de/index-atlas.php) - Castles, palaces and fortified buildings in Europe.
@@ -167,12 +167,12 @@
 
 - [Old Maps Online](https://www.oldmapsonline.org) - Historical maps around the world.
 - [Mapire](https://mapire.eu/) - Portal for historical maps.
-- [Painted Planet](https://hicsuntleones.nl/paintedplanet) - Geolocated paintings of citiscapes and landscapes.
+- [Painted Planet](https://hicsuntleones.nl/paintedplanet) - Geolocated paintings of cityscapes and landscapes.
 
 ## 3D Earth
 
-- [Google Earth](https://earth.google.com/web/) - 3D view of the earth in space.
-- [Dark Sky Map](https://maps.darksky.net/?3d) - 3D earth with different data layers.
+- [Google Earth](https://earth.google.com/web/) - 3D view of the Earth in space.
+- [Dark Sky Map](https://maps.darksky.net/?3d) - 3D Earth with different data layers.
 
 ## Extraterrestrial
 
@@ -182,11 +182,11 @@
 
 ### Moon
 
-- [Moon Trek](https://trek.nasa.gov/moon/) - NASA exploration portal for the moon.
+- [Moon Trek](https://trek.nasa.gov/moon/) - NASA exploration portal for the Moon.
 
 ### Mars
 
-- [Mars Trek](https://trek.nasa.gov/mars/) - NASA exploration portal for the mars.
+- [Mars Trek](https://trek.nasa.gov/mars/) - NASA exploration portal for Mars.
 
 ### Solar System
 
