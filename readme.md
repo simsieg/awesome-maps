@@ -131,6 +131,7 @@
 - [Radio Garden](https://radio.garden) - Listen to radio stations around the world.
 - [Flickr Map](https://www.flickr.com/map) - Photos and videos on a map.
 - [WikiShootMe](https://wikishootme.toolforge.org/) - Wikipedia images and articles on a map.
+- [OpenBookCase](https://openbookcase.de/map) - Search and find public bookcases.
 
 ## Food
 
