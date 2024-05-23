@@ -153,6 +153,7 @@
 - [Real Time Lightning Map](https://www.lightningmaps.org/) - Lightning strikes in real time across the planet.
 - [OpenWeatherMap](https://openweathermap.org/weathermap) - Interactive weather maps.
 - [openSenseMap](https://opensensemap.org/) - Open environmental sensor data all over the world.
+- [ShadeMap](https://shademap.app) - Global map simulating mountain, building and tree shadows for any date and time-
 
 ## Climate Change
 
