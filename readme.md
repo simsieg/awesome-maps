@@ -16,6 +16,7 @@
   - [Mercator projection](#mercator-projection)
   - [Topography](#topography)
   - [Outdoor](#outdoor)
+  - [Facilities](#facilities)
   - [Accessibility](#accessibility)
   - [Sea](#sea)
   - [Train](#train)
@@ -79,6 +80,10 @@
 - [Komoot](https://www.komoot.com/plan) - Route planner for hiking, cycling and running.
 - [Light pollution map](https://www.lightpollutionmap.info) - Interactive world light pollution map.
 - [UrbexElite](https://www.google.com/maps/d/viewer?mid=1M6OeH-DCWCLHGLQ2_CiGPd0aO7IjPHqo&hl=de&ll=52.28141979857539%2C14.202343154077269&z=8) - Map of lost places.
+
+## Facilities
+
+- [Box Locator](https://boxlocator.eu/en/map) - Find vending machines and other similar amenities around the world.
 
 ## Accessibility
 
