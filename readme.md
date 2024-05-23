@@ -117,6 +117,7 @@
 - [Satellite Map](https://maps.esri.com/rc/sat2/index.html) - Current position and trajectory of 16,000 manmade objects orbiting the Earth.
 - [Sentinel Hub](https://apps.sentinel-hub.com/eo-browser) - Full resolution images satellite imagery.
 - [RAMMB SLIDER](https://rammb-slider.cira.colostate.edu) - Interactive satellite imagery explorer.
+- [EarthExplorer](https://earthexplorer.usgs.gov/) - Query and order satellite images, aerial photographs, and cartographic products through the U.S. Geological Survey.
 
 ## Sights
 
