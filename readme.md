@@ -48,6 +48,7 @@
 - [Mapy.cz](https://en.mapy.cz) - General purpose map with various possibilities.
 - [HERE WeGo](https://wego.here.com/) - Maps, navigation and routes.
 - [OpenStreetMap](https://www.openstreetmap.org/) - The free wiki world map.
+- [MapQuest](https://www.mapquest.com/) - Explore driving directions, maps, live traffic updates and road, nearby businesses, restaurants and hotels.
 
 ## Public Transport
 
@@ -142,6 +143,7 @@
 
 ## Food
 
+- [Happy Cow](https://www.happycow.net/veggiemap/) - World Map of Vegan/Vegetarian Restaurants and Health Food Stores.
 - [TasteAtlas](https://www.tasteatlas.com/search) - World food atlas.
 - [ViaMichelin](https://www.viamichelin.com/web/Search-Restaurants) - Selected restaurants from the MICHELIN Guide.
 - [mundraub](https://mundraub.org/map) - Edible plants and fruits worldwide.
@@ -156,11 +158,11 @@
 - [Windfinder](https://www.windfinder.com/) - Wind forecasts, wind radar, wind force and weather.
 - [Windy](https://www.windy.com/) - Wind map, weather forecast and more than 40 other layers.
 - [Windguru](https://www.windguru.cz/map/) - Wind and weather model forecast maps.
-- [Real Time City Climate](https://www.meteoblue.com/en/products/cityclimate/index) - High precision, high-resolution climate map for world cities
+- [Real Time City Climate](https://www.meteoblue.com/en/products/cityclimate/index) - High precision, high-resolution climate map for world cities.
 - [Real Time Lightning Map](https://www.lightningmaps.org/) - Lightning strikes in real time across the planet.
 - [OpenWeatherMap](https://openweathermap.org/weathermap) - Interactive weather maps.
 - [openSenseMap](https://opensensemap.org/) - Open environmental sensor data all over the world.
-- [ShadeMap](https://shademap.app) - Global map simulating mountain, building and tree shadows for any date and time-
+- [ShadeMap](https://shademap.app) - Global map simulating mountain, building and tree shadows for any date and time.
 
 ## Climate Change
 
