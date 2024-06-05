@@ -81,6 +81,7 @@
 - [Komoot](https://www.komoot.com/plan) - Route planner for hiking, cycling and running.
 - [Light pollution map](https://www.lightpollutionmap.info) - Interactive world light pollution map.
 - [UrbexElite](https://www.google.com/maps/d/viewer?mid=1M6OeH-DCWCLHGLQ2_CiGPd0aO7IjPHqo&hl=de&ll=52.28141979857539%2C14.202343154077269&z=8) - Map of lost places.
+- [Bike-sharing World Map](https://bikesharingworldmap.com) - A map of the world's bikeshare services.
 
 ## Facilities
 
@@ -127,6 +128,7 @@
 - [Wikimapia](https://wikimapia.org/) - Editable map of marked places.
 - [AlleBurgen](https://www.alleburgen.de/index-atlas.php) - Castles, palaces and fortified buildings in Europe.
 - [Visit Sights](https://visitsights.com/) - Self-guided sightseeing tours by foot and individual sights all around the world.
+- [Wordl Travel Map](https://travelermap.net/national-parks) - National Parks Worldwide - Map, photos and other informations.
 
 ## Accommodation
 
