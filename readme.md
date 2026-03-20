@@ -86,6 +86,7 @@
 ## Facilities
 
 - [Box Locator](https://boxlocator.eu/en/map) - Find vending machines and other similar amenities around the world.
+- [Pumperly](https://pumperly.com) - Real-time fuel prices and EV charging stations across 36 countries, with route planning.
 
 ## Accessibility
 
