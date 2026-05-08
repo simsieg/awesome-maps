@@ -175,6 +175,7 @@
 
 - [Earthquake Track](https://earthquaketrack.com/) - Map of earthquakes.
 - [Forest Watch](https://fires.globalforestwatch.org/map) - Monitoring of forest and land fires.
+- [Hantascan](https://hantascan.com) - Live global hantavirus map with reported cases, deaths, country totals, and outbreak locations.
 - [Live Cyber Threat Map](https://threatmap.checkpoint.com/) - Live map of cyber attacks.
 - [NUKEMAP](https://nuclearsecrecy.com/nukemap/) - Simulate explosions of nuclear weapons.
 
