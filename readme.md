@@ -76,6 +76,7 @@
 
 ## Outdoor
 
+- [Radatlas Österreich](https://radatlas.at) - Atlas of Austria's named cycle routes with interactive maps, elevation profiles and GPX/TCX downloads.
 - [OpenCycleMap](https://www.opencyclemap.org/) - Global cycling map for overview and planning.
 - [CyclOSM](https://www.cyclosm.org/) - Beautiful open cycle map.
 - [Komoot](https://www.komoot.com/plan) - Route planner for hiking, cycling and running.
