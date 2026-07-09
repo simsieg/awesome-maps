@@ -226,3 +226,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, Simon Siegert has waived all copyright and
 related or neighboring rights to this work.
+
+## Companion Resources (Fan-Maintained Pages)
+
+- [Meccha Chameleon Atlas (Fan-Intro Page)](https://zlc000190.github.io/meccha-chameleon-atlas-pages/) — Fan-maintained companion intro page for the paint-based hide-and-seek game Meccha Chameleon. The full community-maintained atlas lives at https://mecchachameleon.art/. Unofficial, not affiliated with the developer.
