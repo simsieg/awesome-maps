@@ -91,6 +91,7 @@
 ## Accessibility
 
 - [Wheelmap](https://wheelmap.org/) - Wheelchair-accessible places.
+- [SafeStreets](https://safestreets.streetsandcommons.com) - Walkability and pedestrian-safety scores for any address.
 
 ## Sea
 
