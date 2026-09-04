@@ -190,6 +190,7 @@
 
 - [Google Earth](https://earth.google.com/web/) - 3D view of the Earth in space.
 - [Dark Sky Map](https://maps.darksky.net/?3d) - 3D Earth with different data layers.
+- [Yapmap](https://yapmap.cc) - Free voice-controlled 3D globe; talk to fly anywhere and an AI guide narrates each place.
 
 ## Extraterrestrial
 
