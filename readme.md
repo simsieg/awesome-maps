@@ -50,6 +50,7 @@
 - [OpenStreetMap](https://www.openstreetmap.org/) - The free wiki world map.
 - [MapQuest](https://www.mapquest.com/) - Explore driving directions, maps, live traffic updates and road, nearby businesses, restaurants and hotels.
 - [Draw on a Map](https://drawonamap.com/) - Draw, annotate, and share interactive maps in a browser without an account.
+- [Driftlog Country Counter](https://driftlog-counter.pages.dev/) - World map of the countries in your own photos or Google Maps Timeline export, with first and last years, made in the browser without uploading anything.
 
 ## Public Transport
 
