@@ -131,6 +131,7 @@
 - [AlleBurgen](https://www.alleburgen.de/index-atlas.php) - Castles, palaces and fortified buildings in Europe.
 - [Visit Sights](https://visitsights.com/) - Self-guided sightseeing tours by foot and individual sights all around the world.
 - [Wordl Travel Map](https://travelermap.net/national-parks) - National Parks Worldwide - Map, photos and other informations.
+- [The Field Atlas](https://usnature.vercel.app/) - Illustrated field atlas of 421 US wild places, from national parks and canyons to forests, grasslands, overlooks, and quieter destinations.
 
 ## Accommodation
 
