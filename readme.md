@@ -30,6 +30,7 @@
   - [Weather](#weather)
   - [Climate Change](#climate-change)
   - [Catastrophes](#catastrophes)
+  - [Health](#health)
   - [Historic](#historic)
   - [3D Earth](#3d-earth)
   - [Extraterrestrial](#extraterrestrial)
@@ -180,6 +181,10 @@
 - [Forest Watch](https://fires.globalforestwatch.org/map) - Monitoring of forest and land fires.
 - [Live Cyber Threat Map](https://threatmap.checkpoint.com/) - Live map of cyber attacks.
 - [NUKEMAP](https://nuclearsecrecy.com/nukemap/) - Simulate explosions of nuclear weapons.
+
+## Health
+
+- [Lifemap](https://lifemap.org.uk) - Life expectancy and healthy life expectancy across UK councils from official statistics.
 
 ## Historic
 
