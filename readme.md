@@ -168,6 +168,7 @@
 - [openSenseMap](https://opensensemap.org/) - Open environmental sensor data all over the world.
 - [ShadeMap](https://shademap.app) - Global map simulating mountain, building and tree shadows for any date and time.
 - [Sunshine Atlas](https://sunshineatlas.com) - Interactive globe ranking 3,800+ destinations by average monthly sunshine hours and climate.
+- [Heliora](https://heliora.app/?utm_source=github.com&utm_medium=outreach) - Free browser map for planning where the Sun and Moon sit against the terrain horizon from any viewpoint and date, with landmark alignment and shareable links.
 
 ## Climate Change
 
