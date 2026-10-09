@@ -168,6 +168,7 @@
 - [openSenseMap](https://opensensemap.org/) - Open environmental sensor data all over the world.
 - [ShadeMap](https://shademap.app) - Global map simulating mountain, building and tree shadows for any date and time.
 - [Sunshine Atlas](https://sunshineatlas.com) - Interactive globe ranking 3,800+ destinations by average monthly sunshine hours and climate.
+- [WeatherChirp](https://weatherchirp.com) - World temperature map and monthly climate averages (temperature, rain, sunshine) for 30,000+ cities.
 
 ## Climate Change
 
