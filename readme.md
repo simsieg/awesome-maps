@@ -156,6 +156,7 @@
 ## Fun
 
 - [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
+- [Mini Golf Spots](https://minigolfspots.com/courses) - Interactive map and directory of mini-golf courses in the United States.
 
 ## Weather
 
