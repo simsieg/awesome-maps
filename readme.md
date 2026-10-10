@@ -88,6 +88,7 @@
 ## Facilities
 
 - [Box Locator](https://boxlocator.eu/en/map) - Find vending machines and other similar amenities around the world.
+- [Ceramic Coating Near Me](https://ceramiccoatingshopsnearme.com/locations/austin-texas) - Ceramic-coating shop map for Austin, Texas, with service filters.
 
 ## Accessibility
 
