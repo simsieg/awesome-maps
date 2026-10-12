@@ -77,6 +77,7 @@
 
 ## Outdoor
 
+- [KoreAves](https://koreaves.com/gis/) - Explore source-linked bird occurrence evidence across South Korean regions, with sampling and data-coverage cautions.
 - [OpenCycleMap](https://www.opencyclemap.org/) - Global cycling map for overview and planning.
 - [CyclOSM](https://www.cyclosm.org/) - Beautiful open cycle map.
 - [Komoot](https://www.komoot.com/plan) - Route planner for hiking, cycling and running.
