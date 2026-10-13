@@ -88,6 +88,7 @@
 ## Facilities
 
 - [Box Locator](https://boxlocator.eu/en/map) - Find vending machines and other similar amenities around the world.
+- [Rastradar](https://rastradar.com/) - Map and directory of German motorway rest stops and truck stops with amenities, fuel brands and charging points (German).
 
 ## Accessibility
 
