@@ -210,6 +210,7 @@
 ### Solar System
 
 - [3D Solar System Simulator](https://theskylive.com/3dsolarsystem) - Orbits of planets and more than 150 comets and asteroids.
+- [3dsolarsystem.net](https://www.3dsolarsystem.net/) - Free interactive browser 3D solar system with real planetary orbits, time scrubbing, and planet details.
 - [Solar System Scope](https://www.solarsystemscope.com/) - Solar system, night sky and outer space in real time.
 
 ### Milky Way
