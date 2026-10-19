@@ -131,6 +131,7 @@
 - [AlleBurgen](https://www.alleburgen.de/index-atlas.php) - Castles, palaces and fortified buildings in Europe.
 - [Visit Sights](https://visitsights.com/) - Self-guided sightseeing tours by foot and individual sights all around the world.
 - [Wordl Travel Map](https://travelermap.net/national-parks) - National Parks Worldwide - Map, photos and other informations.
+- [London Tourist Map](https://londontouristmap.com/) - Free interactive map of about 400 London sights, with 17 themed maps and 17 day trips.
 
 ## Accommodation
 
