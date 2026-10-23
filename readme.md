@@ -192,6 +192,7 @@
 
 - [Google Earth](https://earth.google.com/web/) - 3D view of the Earth in space.
 - [Dark Sky Map](https://maps.darksky.net/?3d) - 3D Earth with different data layers.
+- [TripRoute](https://getapps.cafe/app/triproute) - Desktop app (macOS, Windows) that animates a multi-stop trip across a 3D globe and exports it as an MP4 video.
 
 ## Extraterrestrial
 
