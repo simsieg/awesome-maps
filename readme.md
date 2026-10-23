@@ -156,6 +156,7 @@
 ## Fun
 
 - [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
+- [MapPoster](https://getapps.cafe/app/mapposter) - Desktop app (macOS, Windows) that turns any city into a print-ready map poster with custom layer colours, exported as 300 dpi PNG or PDF.
 
 ## Weather
 
