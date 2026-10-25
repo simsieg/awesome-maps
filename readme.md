@@ -127,6 +127,7 @@
 
 - [UNESCO World Heritage](https://whc.unesco.org/en/interactive-map/) - Map of UNESCO World Heritage sites.
 - [OpenTripMap](https://opentripmap.com/) - Map service for sightseeing and travel planning.
+- [chinamapbook](https://chinamapbook.com/) - A free China sightseeing map for saving sights, food and notes into a personal offline book.
 - [Wikimapia](https://wikimapia.org/) - Editable map of marked places.
 - [AlleBurgen](https://www.alleburgen.de/index-atlas.php) - Castles, palaces and fortified buildings in Europe.
 - [Visit Sights](https://visitsights.com/) - Self-guided sightseeing tours by foot and individual sights all around the world.
