@@ -148,6 +148,7 @@
 ## Food
 
 - [Happy Cow](https://www.happycow.net/veggiemap/) - World Map of Vegan/Vegetarian Restaurants and Health Food Stores.
+- [Taste China](https://taste.taoliapp.com/) - Chinese encyclopedia of ingredients and geographical indication (GI) foods: buying tips, cooking pairings, nutrition.
 - [TasteAtlas](https://www.tasteatlas.com/search) - World food atlas.
 - [ViaMichelin](https://www.viamichelin.com/web/Search-Restaurants) - Selected restaurants from the MICHELIN Guide.
 - [mundraub](https://mundraub.org/map) - Edible plants and fruits worldwide.
