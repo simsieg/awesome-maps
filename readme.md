@@ -184,6 +184,7 @@
 
 ## Historic
 
+- [Geo China](https://geo.taoliapp.com/) - 3D globe timeline of China's historical administrative geography with linked poetry, battles, people, and local lore.
 - [Old Maps Online](https://www.oldmapsonline.org) - Historical maps around the world.
 - [Mapire](https://mapire.eu/) - Portal for historical maps.
 - [Painted Planet](https://hicsuntleones.nl/paintedplanet) - Geolocated paintings of cityscapes and landscapes.
