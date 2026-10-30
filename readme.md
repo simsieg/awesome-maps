@@ -144,6 +144,7 @@
 - [WikiShootMe](https://wikishootme.toolforge.org/) - Wikipedia images and articles on a map.
 - [Newspaper Map](https://newspapermap.com/) - Find and translate all newspapers in the world.
 - [OpenBookCase](https://openbookcase.de/map) - Search and find public bookcases.
+- [SeichiGo](https://seichigo.com/en/map) - Real-world locations that appear in anime, on a worldwide map.
 
 ## Food
 
