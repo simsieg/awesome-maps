@@ -88,6 +88,7 @@
 ## Facilities
 
 - [Box Locator](https://boxlocator.eu/en/map) - Find vending machines and other similar amenities around the world.
+- [CoworkingView](https://coworkingview.com/en) - Interactive map of coworking spaces and private offices in Berlin, Madrid, Barcelona, London, Amsterdam and other cities.
 
 ## Accessibility
 
