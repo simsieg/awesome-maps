@@ -84,6 +84,7 @@
 - [UrbexElite](https://www.google.com/maps/d/viewer?mid=1M6OeH-DCWCLHGLQ2_CiGPd0aO7IjPHqo&hl=de&ll=52.28141979857539%2C14.202343154077269&z=8) - Map of lost places.
 - [Bike-sharing World Map](https://bikesharingworldmap.com) - A map of the world's bikeshare services.
 - [Calisthenicslivemap](https://calisthenicslivemap.com/map) - Outdoor calisthenics and street workout spots worldwide, with the equipment listed per location.
+- [Pedalah](https://pedalah.com/) - Cycling route planner and park connector map for Singapore.
 
 ## Facilities
 
