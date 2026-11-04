@@ -131,6 +131,7 @@
 - [AlleBurgen](https://www.alleburgen.de/index-atlas.php) - Castles, palaces and fortified buildings in Europe.
 - [Visit Sights](https://visitsights.com/) - Self-guided sightseeing tours by foot and individual sights all around the world.
 - [Wordl Travel Map](https://travelermap.net/national-parks) - National Parks Worldwide - Map, photos and other informations.
+- [VeroMaps](https://veromaps.com) - Map of hidden gems and little-known true stories about places, with 3D terrain, live satellite clouds and offline maps, built on OpenStreetMap data.
 
 ## Accommodation
 
