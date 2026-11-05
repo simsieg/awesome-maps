@@ -88,6 +88,7 @@
 ## Facilities
 
 - [Box Locator](https://boxlocator.eu/en/map) - Find vending machines and other similar amenities around the world.
+- [OpenMapp](https://www.openmapp.com) - Map of 1,369 Brazilian Jiu-Jitsu gyms in 664 US cities with open mats, drop-in classes and weekly schedules.
 
 ## Accessibility
 
