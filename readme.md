@@ -110,6 +110,7 @@
 
 - **[⭐️ Escape ✈️](https://greatescape.co/map) - Find the cheapest flight destinations.**
 - [FlightConnections](https://www.flightconnections.com/) - Overview of all flight routes worldwide.
+- [WhatFliesWhere](https://whatflieswhere.com/from/new-york) - Map of nonstop routes from 3,000+ airports, with airlines and seasonal dates.
 - [SkyVector](https://skyvector.com/) - Worldwide Aeronautical Charts.
 - [Flightradar24](https://www.flightradar24.com/) - Real time flight tracker map.
 - [ADS-B Exchange](https://globe.adsbexchange.com/) - Aircraft tracking.
