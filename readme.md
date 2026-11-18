@@ -181,6 +181,7 @@
 - [Forest Watch](https://fires.globalforestwatch.org/map) - Monitoring of forest and land fires.
 - [Live Cyber Threat Map](https://threatmap.checkpoint.com/) - Live map of cyber attacks.
 - [NUKEMAP](https://nuclearsecrecy.com/nukemap/) - Simulate explosions of nuclear weapons.
+- [Whatoblock Live Threat Map](https://whatoblock.com/global-network) - Live map of attacks observed by a honeypot network.
 
 ## Historic
 
