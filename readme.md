@@ -50,6 +50,7 @@
 - [OpenStreetMap](https://www.openstreetmap.org/) - The free wiki world map.
 - [MapQuest](https://www.mapquest.com/) - Explore driving directions, maps, live traffic updates and road, nearby businesses, restaurants and hotels.
 - [Draw on a Map](https://drawonamap.com/) - Draw, annotate, and share interactive maps in a browser without an account.
+- [Land Area Measure](https://land.hertzmc.com/) - Measure the area of any lot or field on a satellite map, or walk its edge with GPS, in a browser without an account.
 
 ## Public Transport
 
