@@ -56,6 +56,7 @@
 - [OpenRouteService](https://maps.openrouteservice.org/) - Route planner for directions, isochrones and places.
 - [ÖPNVKarte](https://www.öpnvkarte.de/) - Every train, tram, subway, ferry and bus line in the world.
 - [Mapnificent](https://www.mapnificent.net/) - Dynamic public transport travel time maps.
+- [NajamStanova.com commute map](https://najamstanova.com/en/commute-map) - Door-to-door public transport travel time from every Zagreb neighbourhood to a place you choose, with rental flats in the quickest ones.
 
 ## Street View
 
