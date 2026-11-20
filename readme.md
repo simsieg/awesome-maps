@@ -157,6 +157,7 @@
 ## Fun
 
 - [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
+- [GTA 6 Real Map](https://gta6realmap.com/) - Free interactive Leonida and Vice City map for GTA 6 with 3,471 trackable pins across 26 layers, collectibles tracking, and 4K satellite/atlas switching.
 
 ## Weather
 
