@@ -157,6 +157,7 @@
 ## Fun
 
 - [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
+- [World Geography](https://world-geography.com/) - Free interactive 2D and 3D map quizzes for countries, capitals, flags, states/provinces, and global data atlases.
 
 ## Weather
 
