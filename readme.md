@@ -29,6 +29,7 @@
   - [Fun](#fun)
   - [Weather](#weather)
   - [Climate Change](#climate-change)
+  - [Energy](#energy)
   - [Catastrophes](#catastrophes)
   - [Historic](#historic)
   - [3D Earth](#3d-earth)
@@ -175,6 +176,10 @@
 
 - [Electricity Maps](https://app.electricitymaps.com/map) - 24/7 live visualization of electricity origins and CO2 emissions.
 - [Water level](https://coastal.climatecentral.org/map/8/100.6166/13.2746/?theme=water_level&map_type=water_level_above_mhhw) - Simulate rising sea levels.
+
+## Energy
+
+- [Mineral Record](https://mineralrecord.com/pipelines) - Map of 409,268 miles of Texas T-4 permitted pipeline, from Railroad Commission filings.
 
 ## Catastrophes
 
