@@ -132,6 +132,7 @@
 - [AlleBurgen](https://www.alleburgen.de/index-atlas.php) - Castles, palaces and fortified buildings in Europe.
 - [Visit Sights](https://visitsights.com/) - Self-guided sightseeing tours by foot and individual sights all around the world.
 - [Wordl Travel Map](https://travelermap.net/national-parks) - National Parks Worldwide - Map, photos and other informations.
+- [Mappu](https://www.mappu.ai/) - Trip planner that lays out each day on a map, with free audio guides and self-guided walks in 8 languages.
 
 ## Accommodation
 
