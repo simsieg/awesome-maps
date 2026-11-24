@@ -115,6 +115,7 @@
 - [Flightradar24](https://www.flightradar24.com/) - Real time flight tracker map.
 - [ADS-B Exchange](https://globe.adsbexchange.com/) - Aircraft tracking.
 - [Sondehub](https://sondehub.org/) - Live tracking of radiosonde flights.
+- [Velocity](https://github.com/AndrewCTF/velocity) - Self-hosted live map of aircraft and ships that records every position, so you can replay any moment.
 
 ## Satellites
 
