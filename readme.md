@@ -30,6 +30,7 @@
   - [Weather](#weather)
   - [Climate Change](#climate-change)
   - [Catastrophes](#catastrophes)
+  - [Public Records](#public-records)
   - [Historic](#historic)
   - [3D Earth](#3d-earth)
   - [Extraterrestrial](#extraterrestrial)
@@ -182,6 +183,10 @@
 - [Forest Watch](https://fires.globalforestwatch.org/map) - Monitoring of forest and land fires.
 - [Live Cyber Threat Map](https://threatmap.checkpoint.com/) - Live map of cyber attacks.
 - [NUKEMAP](https://nuclearsecrecy.com/nukemap/) - Simulate explosions of nuclear weapons.
+
+## Public Records
+
+- [H1DR4 Incident Map](https://h1dr4.dev/map) - Explore publicly reported incidents, including anonymised Police.uk records, in a free interactive map.
 
 ## Historic
 
