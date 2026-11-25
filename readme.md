@@ -178,6 +178,7 @@
 
 ## Catastrophes
 
+- [Earthquake Globe](https://earthquakes.site/) - Live earthquakes from USGS data on a 3D globe.
 - [Earthquake Track](https://earthquaketrack.com/) - Map of earthquakes.
 - [Forest Watch](https://fires.globalforestwatch.org/map) - Monitoring of forest and land fires.
 - [Live Cyber Threat Map](https://threatmap.checkpoint.com/) - Live map of cyber attacks.
