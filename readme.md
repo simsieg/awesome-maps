@@ -157,6 +157,7 @@
 ## Fun
 
 - [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
+- [StagePeek](https://stagepeek.live) - Interactive 2D seating maps and 3D concert stage-view explorer for 201 stadiums and arenas worldwide.
 
 ## Weather
 
